@@ -65,6 +65,13 @@ python scripts/03_analysis/figX.py
 ```
 
 
-## "I have some questions..."
+## From the paper - where to get stuff
 
-[Open an issue](https://github.com/estefanysuarez/neuromorphic-networks/issues) on this repository and someone will try and get back to you as soon as possible!
+### Data availability
+
+The source dataset from University of Lausanne is available at https://doi.org/10.5281/zenodo.2872624. To facilitate the reproducibility of this work, the data ready to run the code is publicly available on Zenodo (https://doi.org/10.5281/zenodo.4776453).
+
+### Code availability
+
+All code used for data processing, simulation, analysis, and figure generation is publicly available on GitHub and Zenodo (https://github.com/netneurolab/suarez_neuromorphicnetworks; https://doi.org/10.5281/zenodo.4776829)172, and is built on top of the following open-source Python packages: reservoir (https://github.com/estefanysuarez/reservoir; https://doi.org/10.5281/zenodo.4913398), Netneurotools (https://github.com/netneurolab/netneurotools), Numpy173,174,175, Scipy176, Pandas177, Scikit-learn178, bctpy (https://github.com/aestrivex/bctpy)89, NetworkX 179, Matplotlib180 and Seaborn181.
+
